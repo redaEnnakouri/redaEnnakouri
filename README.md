@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reda Ennakouri</h1>
 <h3 align="center">I'm Senior backend developer</h3>
 
-I have a computer engineering license, I have worked on several national and international Professional projects, among the technologies that I master are: Laravel PHP, Livewire, VueJs, inertia, javascript, Shopify, JQuery, Ajax XML,, Bootstrap,MySQL, SQL Server,HF SQL
+I have a computer engineering license,I'm a senior Software  developer, I am managing web Development tasks successfully. and I have more than 4 years of Software developer experience and development for different companies. As a highly skilled  Web developer with 4+ years of working experience. I can design/develop, PHP, Laravel, Livewire, Vue JS, Prestashop, and Shopify sites from scratch, Customization of theme, Custom plugins, API integration, Maintenance of a site, Revamp of the site, etc please for more information open the link https://www.linkedin.com/in/reda-ennakouri-493475100/ .
 
 - 🔭 I’m currently working on **Shopify application**
 
