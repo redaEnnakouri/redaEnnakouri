@@ -1,4 +1,4 @@
-![I am Senior backend developer ](https://raw.githubusercontent.com/redaEnnakouri/vue-twitch-video-controls/main/images/royalCode.jpeg)
+![I am Senior backend developer ](https://github.com/redaEnnakouri/ProfilePage/blob/main/page-1.png)
 <h1 align="center">Hi 👋, I'm Reda Ennakouri</h1>
 <h3 align="center">I'm Senior BackEnd developer</h3>
 
