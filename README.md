@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reda Ennakouri</h1>
 <h3 align="center">I'm Senior Software  developer</h3>
 
-I have a computer engineering license,I'm a senior Software developer, I am managing web Development tasks successfully. and I have more than 5 years of Software developer experience and development for different companies. As a highly skilled  Web developer with 5+ years of working experience. I can design/develop, PHP, Laravel, Livewire, Vue JS, NuxtJS, and Shopify , Customization of theme, Custom plugins, API integration, Maintenance of a site, Revamp of the site, etc please for more information open the link https://www.linkedin.com/in/reda-ennakouri-493475100/ .
+I have a computer engineering license,I'm a senior Software developer, I am managing web Development tasks successfully. and I have more than 7 years of Software developer experience and development for different companies. As a highly skilled  Web developer with 5+ years of working experience. I can design/develop, PHP, Laravel, Livewire, Vue JS, NuxtJS, and Shopify , Customization of theme, Custom plugins, API integration, Maintenance of a site, Revamp of the site, etc please for more information open the link https://www.linkedin.com/in/reda-ennakouri-493475100/ .
 
 - 🔭 I’m currently working on **Shopify application**
 
